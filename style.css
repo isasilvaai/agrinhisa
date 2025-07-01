@@ -5,11 +5,11 @@
 }
 
 :root {
+    --roxo: #6d1fd4;
     --preto: #000000;
-    --marinho: #6759d4;
-    --amarelo-claro: #000000;
+    --verde: #60c740;
     --roxo-claro: #B2A5FF;
-    --verde: #a9d3cd;
+    --verde-claro: #a9d3cd;
     --rosa-claro: #c783d8;
 }
 
@@ -17,7 +17,7 @@ body{
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--azul-claro);
-    color: var(--preto);
+    color: var(--verde);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -25,14 +25,14 @@ body{
 header {
     display: flex; 
     width: 100%;
-    background-color: var(--marinho);
+    background-color: var(--roxo);
     padding: 1rem;
     justify-content: center;
 }
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--amarelo-claro);
+    color: var(--verde);
 }
 main {
     margin: 40px auto;
