@@ -21,16 +21,14 @@ body {
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 header {
-    display: flex;
+    display: flex; 
     width: 100%;
-    background-color: var(--marinho);
+    background-color: var(--roxo);
     padding: 1rem;
     position: relative;
     justify-content: center;
 }
-
 
 .menu-disciplina {
     width: 20%;
