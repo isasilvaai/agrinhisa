@@ -4,17 +4,13 @@
     box-sizing: border-box;
 }
 
-:root{
+:root {
     --preto: #000000;
-    --marinho: #493D9E;
-    --amarelo-claro:#FFF2AF;
-    --roxo-claro:#B2A5FF;
-    --verde: #99BC85;
-    --azul-claro: #E4EFE7;
-    --branco: #FFFFFF;
-    --marron-claro: #FAF1E6;
+    --marinho: #6759d4;
+    --amarelo-claro: #000000;
+    --roxo-claro: #B2A5FF;
+    --verde: #a9d3cd;
 }
-
 body{
     height: 100vh;
     box-sizing: border-box;
