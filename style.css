@@ -5,19 +5,19 @@
 }
 
 :root {
-    --roxo: #6d1fd4;
+    --azul-claro: #4998ff;
     --preto: #000000;
-    --verde: #a7ff8d;
+    --rosa: #ff82f9;
     --roxo-claro: #B2A5FF;
     --verde-claro: #a9d3cd;
-    --rosa-claro: #c783d8;
+   
 }
 
 body{
     height: 100vh;
     box-sizing: border-box;
     background-color: var(--azul-claro);
-    color: var(--verde);
+    color: var(--rosa);
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -25,14 +25,14 @@ body{
 header {
     display: flex; 
     width: 100%;
-    background-color: var(--roxo);
+    background-color: var(--azul-claro);
     padding: 1rem;
     justify-content: center;
 }
 
 .portfolio h1{
     font-size: 4rem;
-    color: var(--verde);
+    color: var(--rosa);
 }
 main {
     margin: 40px auto;
